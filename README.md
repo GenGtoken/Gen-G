@@ -12,7 +12,7 @@ Just one builder with a vision for generational value — and a token that earns
 ## 🔗 Official Links
 
 - 🌐 Website: [www.gengtoken.com](https://www.gengtoken.com)
-- 📄 Whitepaper: [View PDF]([https://www.gengtoken.com/whitepaper.pdf](https://drive.google.com/file/d/1Da4nGoucoG-FVdXLEwcbqC8QxS1S724E/view?usp=share_link](https://drive.google.com/file/d/1Da4nGoucoG-FVdXLEwcbqC8QxS1S724E/view)
+- 📄 Whitepaper: [View PDF](https://tinyurl.com/geng-whitepaper)
 - 📡 X (Twitter): [@gengtoken](https://twitter.com/gengtoken)
 - 📬 Telegram (News): *coming soon*
 - 👥 Telegram (Community): *coming soon*
