@@ -86,25 +86,25 @@ To ensure transparency and long-term commitment, the following token allocations
 - 🧑‍🚀 **Founder Lock**  
   - **Lock Duration**: 3 years total  
   - **Unlock Schedule**: 100% linear unlock  
-  - **Start Date**: July 4, 2024  
-  - **End Date**: July 4, 2027  
+  - **Start Date**: July 4, 2025  
+  - **End Date**: July 4, 2028  
   - [View Contract on Polygonscan](https://polygonscan.com/address/0x747729d98f70b1448c211875a691cd2588d24680)
 
 - 🏛️ **Treasury Lock**  
   - **Total Duration**: 2 years  
   - **Unlock Milestones**:  
-    - 0% at start (July 4, 2024)  
-    - 25% unlock on Jan 4, 2025  
-    - 50% unlock on July 4, 2025  
-    - 75% unlock on Jan 4, 2026  
-    - 100% unlock on July 4, 2026  
+    - 0% at start (July 4, 2025)  
+    - 25% unlock on Jan 4, 2026  
+    - 50% unlock on July 4, 2026  
+    - 75% unlock on Jan 4, 2027  
+    - 100% unlock on July 4, 2027  
   - [View Contract on Polygonscan](https://polygonscan.com/address/0xcb299c8183beb65955a2d1d3f75b6b15a3e94c9f)
 
 - ❤️ **Charity Reserve Lock**  
   - **Lock Duration**: 1.5 years  
   - **Unlock Schedule**: 100% linear unlock  
-  - **Start Date**: July 4, 2024  
-  - **End Date**: January 1, 2026  
+  - **Start Date**: July 4, 2025  
+  - **End Date**: January 1, 2027  
   - [View Contract on Polygonscan](https://polygonscan.com/address/0x8ffde8bab2ee64577762bb2ea79096e46a7b9f4a)
  
 ---
