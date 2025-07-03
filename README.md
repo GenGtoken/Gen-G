@@ -109,6 +109,16 @@ To ensure transparency and long-term commitment, the following token allocations
  
 ---
 
+### 🔒 Vesting Transparency
+
+All locked wallets are controlled by immutable smart contracts deployed on Polygon via [Unvest](https://app.unvest.io).
+
+- These contracts **cannot be altered or revoked** once deployed.
+- They ensure gradual token release over time, fully **visible and verifiable on-chain**.
+- Vesting schedules are available through Unvest’s public dashboard, with clear milestone details.
+
+---
+
 ## 🚧 Status
 
 This project is in early development.  
