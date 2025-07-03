@@ -42,9 +42,8 @@ Just one builder with a vision for generational value — and a token that earns
 
 ---
 
-### 🔐 Token Allocation Overview
-
 #### 📦 Wallet Addresses
+
 
 - 💧 **Public Liquidity Wallet**  
   [0x3590536DfF884B02eb1bD6F44d0E4db1239dea62](https://polygonscan.com/address/0x3590536DfF884B02eb1bD6F44d0E4db1239dea62)
