@@ -125,4 +125,4 @@ This project is in early development.
 Follow along as it grows — transparently, securely, and step-by-step.
 
 Built by one. Held by many.  
-For generations to come. 🌀
+For generations to come. 🌀 
