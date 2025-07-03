@@ -23,12 +23,12 @@ Just one builder with a vision for generational value — and a token that earns
 
 | Allocation              | Percentage | Wallet Address | QR Code |
 |-------------------------|------------|----------------|---------|
-| 🟩 Public Launch        | 40%        | `0x13E7898428A845e45475dF6dad0ac5b7d7c29650` | ![QR](wallets/Public_Launch_Wallet.png) |
-| 🔒 Founder Lock (36 mo) | 20%        | `0xC11Ecb55C327f408d41814E4825D00183b73Fa44` | ![QR](wallets/Founder_Lock_Wallet.png) |
-| 🎁 Community Rewards    | 15%        | `0xeF3B30910948C1FC5bF33548CfF6f5647E166283` | ![QR](wallets/Community_Rewards_Wallet.png) |
-| 🏦 Treasury             | 10%        | `0xB26D784D850e05339cC9b3423F72fa704cfAFA23` | ![QR](wallets/Treasury_Wallet.png) |
-| 🤝 Partnerships         | 10%        | `0x2Da3450E06eDb2d87cdaFfe149708742e5A13d26` | ![QR](wallets/Partnerships_Wallet.png) |
-| ❤️ Charity Reserve      | 5%         | `0x3F15d3D3759af29BE63eb18d2eB3127a68375AAe` | ![QR](wallets/Charity_Wallet.png) |
+| 🟩 Public Launch        | 40%        | 
+| 🔒 Founder Lock (36 mo) | 20%        | 
+| 🎁 Community Rewards    | 15%        | 
+| 🏦 Treasury             | 10%        | 
+| 🤝 Partnerships         | 10%        | 
+| ❤️ Charity Reserve      | 5%         | 
 
 ---
 
