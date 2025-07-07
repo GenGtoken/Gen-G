@@ -125,3 +125,11 @@ Follow along as it grows — transparently, securely, and step-by-step.
 
 Built by one. Held by many.  
 For generations to come. 🌀 
+
+---
+
+## Disclaimer
+
+The Gen-G Project and the $GENG token on the Polygon blockchain are independent and not affiliated with any other similarly named projects on other blockchains. This token is a community-driven initiative intended to explore blockchain technology and foster a growing ecosystem.
+
+
