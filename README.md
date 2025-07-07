@@ -33,7 +33,7 @@ Just one builder with a vision for generational value — and a token that earns
 
 | Allocation              | Percentage | 
 |-------------------------|------------|
-| 🟩 Public Launch        | 40%        |
+| 🟩 Public Liquidity     | 40%        |
 | 🔒 Founder Lock (36 mo) | 20%        | 
 | 🎁 Community Rewards    | 15%        | 
 | 🏦 Treasury             | 10%        | 
