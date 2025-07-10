@@ -118,6 +118,20 @@ All locked wallets are controlled by immutable smart contracts deployed on Polyg
 
 ---
 
+### 🧱 GEN-G // YEAR ZERO — Artifact Series
+
+25 total NFTs minted to mark the 2025 origin.  
+4 models available — 6 editions each.  
+1 model reserved.  
+Minted immutably via Manifold.
+
+**[→ Mint Now](https://www.gengtoken.com)**
+
+These are digital relics.  
+Artifacts of timestamp, not tokenomics.
+
+---
+
 ## 🚧 Status
 
 This project is in early development.  
